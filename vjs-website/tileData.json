@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "SOLIIIID Principles",
+    "title": "SOLID Principles",
     "shortDes": "Five design principles of object-oriented programming",
     "longDes": "An in-depth exploration of advanced React 19 patterns, focusing on object-oriented design principles and practical implementation.",
     "logos": ["medium"],
