@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "SOLLLLID Principles",
-    "shortDes": "Five design principles of object-oriented programming",
+    "shortDes": "Five five design principles of object-oriented programming",
     "longDes": "An in-depth exploration of advanced React 19 patterns, focusing on object-oriented design principles and practical implementation.",
     "logos": ["medium"],
     "metadata": {
@@ -19,7 +19,7 @@
     "id": 2,
     "title": "Pydantic",
     "shortDes": "Unlocking Data Validation with Pydantic in Python.",
-    "longDes": "Data validation and type checking are essential components of building robust and error-resistant applications...",
+    "longDes": "Data aaa validation and type checking are essential components of building robust and error-resistant applications...",
     "logos": ["medium", "github"],
     "metadata": {
       "tags": ["pydantic", "python", "data validation", "type hints", "fastapi", "backend", "data modeling", "serialization"],
