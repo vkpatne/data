@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "SOLID Principles",
+    "shortDes": "Five design principles of object-oriented programming",
+    "longDes": "An in-depth exploration of advanced React 19 patterns, focusing on object-oriented design principles and practical implementation.",
+    "logos": ["medium"],
+    "metadata": {
+      "tags": ["solid", "java", "oops", "design patterns", "architecture", "backend"],
+      "category": "technology",
+      "date": "2023-10-15"
+    },
+    "imageUrl": "https://raw.githubusercontent.com/vkpatne/data/main/vjs-website/tile-images/solid.jpg",
+    "links": {
+      "medium": "https://medium.com/@vupatne/solid-principles-oops-98d6d90bfa86"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Pydantic",
+    "shortDes": "Unlocking Data Validation with Pydantic in Python.",
+    "longDes": "Data validation and type checking are essential components of building robust and error-resistant applications...",
+    "logos": ["medium", "github"],
+    "metadata": {
+      "tags": ["pydantic", "python", "data validation", "type hints", "fastapi", "backend", "data modeling", "serialization"],
+      "category": "technology",
+      "date": "2023-08-15"
+    },
+    "imageUrl": "https://raw.githubusercontent.com/vkpatne/data/main/vjs-website/tile-images/pydantic.png",
+    "links": {
+      "medium": "https://medium.com/@vupatne/unlocking-data-validation-with-pydantic-in-python-561bc881e01c",
+      "github": "https://github.com/vkpatne/AgenticAILearning/tree/main/1-Pydantic"
+    }
+  },
+  {
+    "id": 3,
+    "title": "AutoGen",
+    "shortDes": "AutoGen Architecture: In-Depth Exploration",
+    "longDes": "AutoGen v0.4 is a framework for building multi-agent AI systems with an asynchronous, event-driven architecture...",
+    "logos": ["medium", "video"],
+    "metadata": {
+      "tags": ["autogen", "multi-agent", "llm", "ai architecture", "openai", "langchain", "ai-ml", "python"],
+      "category": "technology",
+      "date": "2023-08-15"
+    },
+    "imageUrl": "https://raw.githubusercontent.com/vkpatne/data/main/vjs-website/tile-images/autogen.png",
+    "links": {
+      "medium": "https://medium.com/@vupatne/autogen-architecture-in-depth-exploration-c62e1f65e306",
+      "github": "https://github.com/vkpatne/AgenticAILearning/tree/main/6-Autogen"
+    }
+  }
+]
