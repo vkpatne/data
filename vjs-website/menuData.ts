@@ -20,8 +20,8 @@ export const menuData: MenuItem[] = [
     ]
   },
   {
-    id: 'articles',
-    title: 'Articles',
+    id: 'topics',
+    title: 'Topics',
     submenu: [
       { title: 'OOPs', titletag: 'oops' },
       { title: 'LLM', titletag: 'llm' }
