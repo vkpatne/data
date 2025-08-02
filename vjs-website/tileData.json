@@ -53,7 +53,7 @@
     "id": 4,
     "title": "Linear Regression",
     "shortDes": "Linear Regression Explained: A Beginner’s Guide to AI and Predictions",
-    "longDes": "Linear regression is one of the simplest yet most powerful techniques to start your AI and Machine Learning journey. It helps us predict outcomes by finding the best-fit line between data points, using cost functions and gradient descent to optimize model accuracy. \n\n While linear regression works well for straightforward relationships, it also builds the foundation to understand complex models like multiple regression and other machine learning algorithms.\n\nMastering these basics will not only help you analyze data trends but also prepare you to tackle more advanced AI and ML concepts with confidence.",
+    "longDes": "Logistic Regression is a powerful yet simple algorithm for binary classification problems.\n\n It transforms a linear relationship into a probability score using the sigmoid function, ensuring stable predictions even with varied datasets. By combining the sigmoid function, log loss, and gradient descent optimization, logistic regression provides accurate and interpretable results.\n\n When paired with proper evaluation metrics, it becomes a reliable choice for tasks like spam detection, medical diagnosis, and exam pass/fail predictions.",
     "logos": ["medium"],
     "metadata": {
       "tags": ["ai architecture", "ai", "ai-ml", "python","Linear Regression","Cost Function","Gradient Descent","Machine Learning"],
@@ -63,6 +63,22 @@
     "imageUrl": "https://raw.githubusercontent.com/vkpatne/data/main/vjs-website/tile-images/linear-regression.png",
     "links": {
       "medium": "https://medium.com/@vupatne/linear-regression-explained-a-beginners-guide-to-ai-and-predictions-27ef5c310d0d"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Logistic Regression",
+    "shortDes": "Logistic Regression: A Beginner’s Guide to Classification",
+    "longDes": "Linear regression is one of the simplest yet most powerful techniques to start your AI and Machine Learning journey. It helps us predict outcomes by finding the best-fit line between data points, using cost functions and gradient descent to optimize model accuracy. \n\n While linear regression works well for straightforward relationships, it also builds the foundation to understand complex models like multiple regression and other machine learning algorithms.\n\nMastering these basics will not only help you analyze data trends but also prepare you to tackle more advanced AI and ML concepts with confidence.",
+    "logos": ["medium"],
+    "metadata": {
+      "tags": ["ai architecture", "ai", "ai-ml", "python","Classification Algorithms","Logistic Regressiont","Machine Learning"],
+      "category": "technology",
+      "date": "2025-08-03"
+    },
+    "imageUrl": "https://raw.githubusercontent.com/vkpatne/data/main/vjs-website/tile-images/logistic-regression.png",
+    "links": {
+      "medium": "https://medium.com/@vupatne/logistic-regression-a-beginners-guide-to-classification-e4d5536150a2"
     }
   }
 ]
