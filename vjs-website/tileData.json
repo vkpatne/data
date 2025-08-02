@@ -67,6 +67,22 @@
   },
   {
     "id": 5,
+    "title": "Ridge and Lasso Regression",
+    "shortDes": "Understanding Ridge and Lasso Regression in simple way.",
+    "longDes": "Ridge and Lasso regression are powerful tools to improve model performance and avoid overfitting. Ridge (L2) reduces the magnitude of coefficients, while Lasso (L1) can eliminate irrelevant features entirely. Choosing the right method and tuning λ ensures a balance between accuracy and generalization, leading to robust predictive models.",
+    "logos": ["medium"],
+    "metadata": {
+      "tags": ["ai architecture", "ai", "ai-ml", "python","Ridge Regression","Lasso Regression","Overfitting","Machine Learning"],
+      "category": "technology",
+      "date": "2025-08-03"
+    },
+    "imageUrl": "https://raw.githubusercontent.com/vkpatne/data/main/vjs-website/tile-images/ridge_lasso.jpg",
+    "links": {
+      "medium": "https://medium.com/@vupatne/understanding-ridge-and-lasso-regression-3ce40ffeeb7e"
+    }
+  },
+  {
+    "id": 6,
     "title": "Logistic Regression",
     "shortDes": "Logistic Regression: A Beginner’s Guide to Classification",
     "longDes": "Linear regression is one of the simplest yet most powerful techniques to start your AI and Machine Learning journey. It helps us predict outcomes by finding the best-fit line between data points, using cost functions and gradient descent to optimize model accuracy. \n\n While linear regression works well for straightforward relationships, it also builds the foundation to understand complex models like multiple regression and other machine learning algorithms.\n\nMastering these basics will not only help you analyze data trends but also prepare you to tackle more advanced AI and ML concepts with confidence.",
