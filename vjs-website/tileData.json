@@ -39,7 +39,7 @@
     "longDes": "AutoGen v0.4 is a framework for building multi-agent AI systems with an asynchronous, event-driven architecture...",
     "logos": ["medium", "video"],
     "metadata": {
-      "tags": ["autogen", "multi-agent", "llm", "ai architecture", "openai", "langchain", "ai-ml", "python"],
+      "tags": ["autogen", "multi-agent", "llm", "ai architecture", "openai", "langchain", "ai-ml","ai", "python"],
       "category": "technology",
       "date": "2023-08-15"
     },
@@ -47,6 +47,22 @@
     "links": {
       "medium": "https://medium.com/@vupatne/autogen-architecture-in-depth-exploration-c62e1f65e306",
       "github": "https://github.com/vkpatne/AgenticAILearning/tree/main/6-Autogen"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Linear Regression",
+    "shortDes": "Linear Regression Explained: A Beginner’s Guide to AI and Predictions",
+    "longDes": "Linear regression is one of the simplest yet most powerful techniques to start your AI and Machine Learning journey. It helps us predict outcomes by finding the best-fit line between data points, using cost functions and gradient descent to optimize model accuracy. \n\n While linear regression works well for straightforward relationships, it also builds the foundation to understand complex models like multiple regression and other machine learning algorithms.\n\nMastering these basics will not only help you analyze data trends but also prepare you to tackle more advanced AI and ML concepts with confidence.",
+    "logos": ["medium"],
+    "metadata": {
+      "tags": ["ai architecture", "ai", "ai-ml", "python","Linear Regression","Cost Function","Gradient Descent","Machine Learning"],
+      "category": "technology",
+      "date": "2025-08-02"
+    },
+    "imageUrl": "https://raw.githubusercontent.com/vkpatne/data/main/vjs-website/tile-images/linear-regression.png",
+    "links": {
+      "medium": "https://medium.com/@vupatne/linear-regression-explained-a-beginners-guide-to-ai-and-predictions-27ef5c310d0d"
     }
   }
 ]
