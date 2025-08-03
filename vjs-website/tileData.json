@@ -4,7 +4,6 @@
     "title": "SOLID Principles",
     "shortDes": "Five design principles of object-oriented programming",
     "longDes": "An in-depth exploration of advanced React 19 patterns, focusing on object-oriented design principles and practical implementation.",
-    "logos": ["medium"],
     "metadata": {
       "tags": ["solid", "java", "oops", "design patterns", "architecture", "backend"],
       "category": "technology",
@@ -20,7 +19,6 @@
     "title": "Pydantic",
     "shortDes": "Unlocking Data Validation with Pydantic in Python.",
     "longDes": "Data validation and type checking are essential components of building robust and error-resistant applications...",
-    "logos": ["medium", "github"],
     "metadata": {
       "tags": ["pydantic", "python", "data validation", "type hints", "fastapi", "backend", "data modeling", "serialization"],
       "category": "technology",
@@ -37,7 +35,6 @@
     "title": "AutoGen",
     "shortDes": "AutoGen Architecture: In-Depth Exploration",
     "longDes": "AutoGen v0.4 is a framework for building multi-agent AI systems with an asynchronous, event-driven architecture...",
-    "logos": ["medium", "video"],
     "metadata": {
       "tags": ["autogen", "multi-agent", "llm", "ai architecture", "openai", "langchain", "ai-ml","ai", "python"],
       "category": "technology",
@@ -54,7 +51,6 @@
     "title": "Linear Regression",
     "shortDes": "Linear Regression Explained: A Beginner’s Guide to AI and Predictions",
     "longDes": "Logistic Regression is a powerful yet simple algorithm for binary classification problems.\n\n It transforms a linear relationship into a probability score using the sigmoid function, ensuring stable predictions even with varied datasets. By combining the sigmoid function, log loss, and gradient descent optimization, logistic regression provides accurate and interpretable results.\n\n When paired with proper evaluation metrics, it becomes a reliable choice for tasks like spam detection, medical diagnosis, and exam pass/fail predictions.",
-    "logos": ["medium"],
     "metadata": {
       "tags": ["ai architecture", "ai", "ai-ml", "python","Linear Regression","Cost Function","Gradient Descent","Machine Learning"],
       "category": "technology",
@@ -70,7 +66,6 @@
     "title": "Ridge and Lasso Regression",
     "shortDes": "Understanding Ridge and Lasso Regression in simple way.",
     "longDes": "Ridge and Lasso regression are powerful tools to improve model performance and avoid overfitting. Ridge (L2) reduces the magnitude of coefficients, while Lasso (L1) can eliminate irrelevant features entirely. Choosing the right method and tuning λ ensures a balance between accuracy and generalization, leading to robust predictive models.",
-    "logos": ["medium"],
     "metadata": {
       "tags": ["ai architecture", "ai", "ai-ml", "python","Ridge Regression","Lasso Regression","Overfitting","Machine Learning"],
       "category": "technology",
@@ -86,7 +81,6 @@
     "title": "Logistic Regression",
     "shortDes": "Logistic Regression: A Beginner’s Guide to Classification",
     "longDes": "Linear regression is one of the simplest yet most powerful techniques to start your AI and Machine Learning journey. It helps us predict outcomes by finding the best-fit line between data points, using cost functions and gradient descent to optimize model accuracy. \n\n While linear regression works well for straightforward relationships, it also builds the foundation to understand complex models like multiple regression and other machine learning algorithms.\n\nMastering these basics will not only help you analyze data trends but also prepare you to tackle more advanced AI and ML concepts with confidence.",
-    "logos": ["medium"],
     "metadata": {
       "tags": ["ai architecture", "ai", "ai-ml", "python","Classification Algorithms","Logistic Regressiont","Machine Learning"],
       "category": "technology",
