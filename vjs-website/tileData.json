@@ -58,7 +58,8 @@
     },
     "imageUrl": "https://raw.githubusercontent.com/vkpatne/data/main/vjs-website/tile-images/linear-regression.png",
     "links": {
-      "medium": "https://medium.com/@vupatne/linear-regression-explained-a-beginners-guide-to-ai-and-predictions-27ef5c310d0d"
+      "medium": "https://medium.com/@vupatne/linear-regression-explained-a-beginners-guide-to-ai-and-predictions-27ef5c310d0d",
+      "github":"https://github.com/vkpatne/machine_learning/blob/main/LinearRegression/linear_ridge_lasso_regression.ipynb"
     }
   },
   {
@@ -73,7 +74,8 @@
     },
     "imageUrl": "https://raw.githubusercontent.com/vkpatne/data/main/vjs-website/tile-images/ridge_lasso.jpg",
     "links": {
-      "medium": "https://medium.com/@vupatne/understanding-ridge-and-lasso-regression-3ce40ffeeb7e"
+      "medium": "https://medium.com/@vupatne/understanding-ridge-and-lasso-regression-3ce40ffeeb7e",
+      "github":"https://github.com/vkpatne/machine_learning/blob/main/LinearRegression/linear_ridge_lasso_regression.ipynb"
     }
   },
   {
@@ -88,7 +90,8 @@
     },
     "imageUrl": "https://raw.githubusercontent.com/vkpatne/data/main/vjs-website/tile-images/logistic-regression.png",
     "links": {
-      "medium": "https://medium.com/@vupatne/logistic-regression-a-beginners-guide-to-classification-e4d5536150a2"
+      "medium": "https://medium.com/@vupatne/logistic-regression-a-beginners-guide-to-classification-e4d5536150a2",
+      "github":"https://github.com/vkpatne/machine_learning/blob/main/LogisticRegression/logistic_regression.ipynb"
     }
   }
 ]
