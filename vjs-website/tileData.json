@@ -87,5 +87,19 @@
       "medium": "https://medium.com/@vupatne/logistic-regression-a-beginners-guide-to-classification-e4d5536150a2",
       "github":"https://github.com/vkpatne/machine_learning/blob/main/LogisticRegression/logistic_regression.ipynb"
     }
+  },
+   {
+    "id": 7,
+    "title": "K-Nearest Neighbors (KNN)",
+    "shortDes": "Understanding K-Nearest Neighbors (KNN): A Beginner-Friendly Guide to Classification and Regression",
+    "longDes": "KNN is a simple yet effective algorithm for classification and regression. Its strength lies in its intuitive approach and ease of implementation. However, it’s important to preprocess data carefully — including scaling features, handling outliers, and balancing classes — to ensure optimal performance.\n\nWhether you’re just starting out in machine learning or building quick prototypes, KNN is a great tool to have in your toolkit.",
+    "metadata": {
+      "tags": ["ai architecture", "ai", "ai-ml", "python","Classification","Linear","Machine Learning","KNN","K-Nearest Neighbors"],
+      "date": "2025-08-04"
+    },
+    "imageUrl": "https://raw.githubusercontent.com/vkpatne/data/main/vjs-website/tile-images/knn.png",
+    "links": {
+      "medium": "https://medium.com/@vupatne/understanding-k-nearest-neighbors-knn-a-beginner-friendly-guide-to-classification-and-regression-31499e3faae7"
+    }
   }
 ]
