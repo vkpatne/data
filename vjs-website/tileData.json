@@ -101,5 +101,19 @@
     "links": {
       "medium": "https://medium.com/@vupatne/understanding-k-nearest-neighbors-knn-a-beginner-friendly-guide-to-classification-and-regression-31499e3faae7"
     }
+  },
+   {
+    "id": 8,
+    "title": "Naive Bayes Algorithm",
+    "shortDes": "Naive Bayes Algorithm Explained: From Intuition to Real-World Example",
+    "longDes": "Naive Bayes is a foundational machine learning algorithm that’s surprisingly effective despite its simplicity. It works best when the independence assumption holds — or doesn’t hurt performance too much. It’s widely used in spam filtering, medical diagnosis, sentiment analysis, and more.\n\nIf you’re just starting out with machine learning, Naive Bayes is a great algorithm to learn, implement, and experiment with. Simple math, clear logic, and fast performance make it a favorite for many real-world use cases.",
+    "metadata": {
+      "tags": ["ai architecture", "ai", "ai-ml", "python","Machine Learning","Naive Bayes","Naive Bayes Classifier","Classification Algorithms"],
+      "date": "2025-08-05"
+    },
+    "imageUrl": "https://raw.githubusercontent.com/vkpatne/data/main/vjs-website/tile-images/naive_bayes.png",
+    "links": {
+      "medium": "https://medium.com/@vupatne/naive-bayes-algorithm-explained-from-intuition-to-real-world-example-ca235e499dfe"
+    }
   }
 ]
