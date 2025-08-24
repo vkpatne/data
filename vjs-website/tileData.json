@@ -115,5 +115,19 @@
     "links": {
       "medium": "https://medium.com/@vupatne/naive-bayes-algorithm-explained-from-intuition-to-real-world-example-ca235e499dfe"
     }
+  },
+   {
+    "id": 9,
+    "title": "Multi-Agent System Architecture",
+    "shortDes": "Multi-Agent System Architecture: Building Smarter AI with Collaboration",
+    "longDes": "Artificial Intelligence (AI) is moving rapidly from isolated systems to collaborative, interconnected agents that can perform complex tasks. Instead of relying on one “all-knowing” agent, modern architectures use multi-agent systems (MAS), where multiple specialized agents interact, collaborate, and adapt to solve problems efficiently.\n\nMulti-agent architectures represent a shift in how we think about building AI systems. Instead of creating one agent with infinite tools, MAS leverages collaboration, specialization, and adaptability to achieve more reliable outcomes.",
+    "metadata": {
+      "tags": ["ai architecture", "ai","Agentic Ai","Ai Architecture","Multiagent System","Multiagent Orchestration"],
+      "date": "2025-08-24"
+    },
+    "imageUrl": "https://raw.githubusercontent.com/vkpatne/data/main/vjs-website/tile-images/ai-assistant.png",
+    "links": {
+      "medium": "https://medium.com/@vupatne/multi-agent-system-architecture-building-smarter-ai-with-collaboration-4a148a7f8ffc"
+    }
   }
 ]
