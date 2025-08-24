@@ -116,8 +116,24 @@
       "medium": "https://medium.com/@vupatne/naive-bayes-algorithm-explained-from-intuition-to-real-world-example-ca235e499dfe"
     }
   },
+  ,
    {
     "id": 9,
+    "title": "Decision Tree Algorithm",
+    "shortDes": "Decision Tree Algorithm Explained: Entropy, Information Gain, and Gini Impurity Made Simple",
+    "longDes": "Decision Trees are one of the most intuitive and powerful algorithms in Machine Learning.\n They work by recursively splitting data into smaller subsets based on features, until pure nodes are formed.\n \n\n To build a decision tree:\n \n\n Use Entropy or Gini Impurity to measure purity.\n Use Information Gain to select the best feature for splitting.\n In practice:\n\n \n\n Entropy provides more accurate splits but is computationally heavier.\n Gini is faster and works well for large datasets.",
+    "metadata": {
+      "tags": ["ai architecture", "ai", "ai-ml", "python","Machine Learning","Decision Tree","Decision Tree Classifier"],
+      "date": "2025-08-25"
+    },
+    "imageUrl": "https://raw.githubusercontent.com/vkpatne/data/main/vjs-website/tile-images/decision_tree.png",
+    "links": {
+      "medium": "https://medium.com/@vupatne/decision-tree-algorithm-explained-entropy-information-gain-and-gini-impurity-made-simple-3da6e67e9769",
+      "github":"https://github.com/vkpatne/machine_learning/blob/main/DecisionTree/DecisionTree.ipynb"
+    }
+  },
+   {
+    "id": 10,
     "title": "Multi-Agent System Architecture",
     "shortDes": "Multi-Agent System Architecture: Building Smarter AI with Collaboration",
     "longDes": "Artificial Intelligence (AI) is moving rapidly from isolated systems to collaborative, interconnected agents that can perform complex tasks. Instead of relying on one “all-knowing” agent, modern architectures use multi-agent systems (MAS), where multiple specialized agents interact, collaborate, and adapt to solve problems efficiently.\n\nMulti-agent architectures represent a shift in how we think about building AI systems. Instead of creating one agent with infinite tools, MAS leverages collaboration, specialization, and adaptability to achieve more reliable outcomes.",
