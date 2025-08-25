@@ -132,9 +132,9 @@
     }
   },
   {
-    "id": 10,
-    "title": "AdaBoost Algorithm",
-    "shortDes": "Understanding AdaBoost: A Step-by-Step Guide to Boosting in Machine Learning",
+    "id": 11,
+    "title": "Multi-Agent System Architecture",
+    "shortDes": "Multi-Agent System Architecture: Building Smarter AI with Collaboration",
     "longDes": "Artificial Intelligence (AI) is moving rapidly from isolated systems to collaborative, interconnected agents that can perform complex tasks. Instead of relying on one “all-knowing” agent, modern architectures use multi-agent systems (MAS), where multiple specialized agents interact, collaborate, and adapt to solve problems efficiently.\n\nMulti-agent architectures represent a shift in how we think about building AI systems. Instead of creating one agent with infinite tools, MAS leverages collaboration, specialization, and adaptability to achieve more reliable outcomes.",
     "metadata": {
       "tags": ["ai architecture", "ai","Agentic Ai","Ai Architecture","Multiagent System","Multiagent Orchestration"],
@@ -146,9 +146,9 @@
     }
   },
    {
-    "id": 11,
-    "title": "Multi-Agent System Architecture",
-    "shortDes": "Multi-Agent System Architecture: Building Smarter AI with Collaboration",
+    "id": 10,
+   "title": "AdaBoost Algorithm",
+    "shortDes": "Understanding AdaBoost: A Step-by-Step Guide to Boosting in Machine Learning",
     "longDes": "AdaBoost is one of the most powerful and intuitive boosting algorithms in Machine Learning. By sequentially focusing on misclassified data points, it turns a collection of weak learners into a strong predictive model. \n\n While it is sensitive to noise and outliers, AdaBoost has proven effective in many real-world applications, from text classification to face recognition. If you’re working with decision trees and want a strong ensemble method, AdaBoost is a great starting point.",
     "metadata": {
       "tags": ["ai architecture", "ai","Machine Learning","Adaboost","Adaboost Algorithm","Boosting Algorithm"],
