@@ -131,10 +131,10 @@
       "github":"https://github.com/vkpatne/machine_learning/blob/main/DecisionTree/DecisionTree.ipynb"
     }
   },
-   {
+  {
     "id": 10,
-    "title": "Multi-Agent System Architecture",
-    "shortDes": "Multi-Agent System Architecture: Building Smarter AI with Collaboration",
+    "title": "AdaBoost Algorithm",
+    "shortDes": "Understanding AdaBoost: A Step-by-Step Guide to Boosting in Machine Learning",
     "longDes": "Artificial Intelligence (AI) is moving rapidly from isolated systems to collaborative, interconnected agents that can perform complex tasks. Instead of relying on one “all-knowing” agent, modern architectures use multi-agent systems (MAS), where multiple specialized agents interact, collaborate, and adapt to solve problems efficiently.\n\nMulti-agent architectures represent a shift in how we think about building AI systems. Instead of creating one agent with infinite tools, MAS leverages collaboration, specialization, and adaptability to achieve more reliable outcomes.",
     "metadata": {
       "tags": ["ai architecture", "ai","Agentic Ai","Ai Architecture","Multiagent System","Multiagent Orchestration"],
@@ -143,6 +143,20 @@
     "imageUrl": "https://raw.githubusercontent.com/vkpatne/data/main/vjs-website/tile-images/ai-assistant.png",
     "links": {
       "medium": "https://medium.com/@vupatne/multi-agent-system-architecture-building-smarter-ai-with-collaboration-4a148a7f8ffc"
+    }
+  },
+   {
+    "id": 11,
+    "title": "Multi-Agent System Architecture",
+    "shortDes": "Multi-Agent System Architecture: Building Smarter AI with Collaboration",
+    "longDes": "AdaBoost is one of the most powerful and intuitive boosting algorithms in Machine Learning. By sequentially focusing on misclassified data points, it turns a collection of weak learners into a strong predictive model. \n\n While it is sensitive to noise and outliers, AdaBoost has proven effective in many real-world applications, from text classification to face recognition. If you’re working with decision trees and want a strong ensemble method, AdaBoost is a great starting point.",
+    "metadata": {
+      "tags": ["ai architecture", "ai","Machine Learning","Adaboost","Adaboost Algorithm","Boosting Algorithm"],
+      "date": "2025-08-25"
+    },
+    "imageUrl": "https://raw.githubusercontent.com/vkpatne/data/main/vjs-website/tile-images/adaboost.png",
+    "links": {
+      "medium": "https://medium.com/@vupatne/understanding-adaboost-a-step-by-step-guide-to-boosting-in-machine-learning-c95e534e6d1b"
     }
   }
 ]
