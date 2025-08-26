@@ -147,6 +147,48 @@
   },
   {
     "id": 11,
+   "title": "K-means and Hierarchical Algorithm",
+    "shortDes": "K-means and Hierarchical Clustering Explained: A Beginner’s Guide",
+    "longDes": "K-means is one of the most popular clustering algorithms due to its simplicity, efficiency, and scalability. It works best when clusters are well-separated and spherical in shape. However, it does require the number of clusters (K) to be defined in advance and can be sensitive to noisy data. Despite these limitations, K-means remains a go-to algorithm for clustering problems in Machine Learning.\n\n On the other hand, Hierarchical Clustering shines in situations where interpretability and flexibility are important. The dendrogram it produces gives a clear visualization . However, it becomes computationally expensive with large datasets and is more prone to errors caused by noise and outliers.",
+    "metadata": {
+      "tags": ["ai architecture", "ai","Machine Learning","K Means Clustering","K Means","Hierarchical Clustering"],
+      "date": "2025-08-27"
+    },
+    "imageUrl": "https://raw.githubusercontent.com/vkpatne/data/main/vjs-website/tile-images/k-mean.png",
+    "links": {
+      "medium": "https://medium.com/@vupatne/k-means-and-hierarchical-clustering-explained-a-beginners-guide-402781dfdaac"
+    }
+  },
+   {
+    "id": 12,
+   "title": "XGBoost Algorithm",
+    "shortDes": "XGBoost: The Most Powerful Algorithm in Machine Learning",
+    "longDes": "XGBoost has revolutionized the way we solve Machine Learning problems. Its ability to handle missing data, apply regularization, and deliver high accuracy makes it the go-to choice for both researchers and practitioners. \n\n Whether you are solving a classification problem (predicting categories) or a regression problem (predicting continuous values), XGBoost provides a robust, scalable, and highly efficient solution. \n\n 🚀 In short, if you want speed, accuracy, and scalability, XGBoost should be in your ML toolkit!",
+    "metadata": {
+      "tags": ["ai architecture", "ai","Machine Learning","Xgboost","Xgboost Classification"],
+      "date": "2025-08-27"
+    },
+    "imageUrl": "https://raw.githubusercontent.com/vkpatne/data/main/vjs-website/tile-images/xgboost.png",
+    "links": {
+      "medium": "https://medium.com/@vupatne/xgboost-the-most-powerful-algorithm-in-machine-learning-96cc9e026611"
+    }
+  },
+  {
+    "id": 13,
+   "title": "Support Vector Machines (SVM) Algorithm",
+    "shortDes": "Mastering Support Vector Machines (SVM): From Basics to Advanced with Kernel Trick",
+    "longDes": "Support Vector Machines are one of the most powerful and versatile algorithms in Machine Learning. With the ability to handle both linear and non-linear data through the kernel trick, SVMs are widely applicable in text mining, image processing, and even financial modeling. While they may be computationally heavy for massive datasets, their strength lies in their robustness, flexibility, and ability to create strong decision boundaries. Mastering SVM provides a solid foundation for tackling real-world AI and ML problems effectively.",
+    "metadata": {
+      "tags": ["ai architecture", "ai","Svm Algorithm","Xgboost","Support Vector Machine","Kernel Svm"],
+      "date": "2025-08-27"
+    },
+    "imageUrl": "https://raw.githubusercontent.com/vkpatne/data/main/vjs-website/tile-images/svm.png",
+    "links": {
+      "medium": "https://medium.com/@vupatne/mastering-support-vector-machines-svm-from-basics-to-advanced-with-kernel-trick-db0cc08e460c"
+    }
+  },
+  {
+    "id": 14,
     "title": "Multi-Agent System Architecture",
     "shortDes": "Multi-Agent System Architecture: Building Smarter AI with Collaboration",
     "longDes": "Artificial Intelligence (AI) is moving rapidly from isolated systems to collaborative, interconnected agents that can perform complex tasks. Instead of relying on one “all-knowing” agent, modern architectures use multi-agent systems (MAS), where multiple specialized agents interact, collaborate, and adapt to solve problems efficiently.\n\nMulti-agent architectures represent a shift in how we think about building AI systems. Instead of creating one agent with infinite tools, MAS leverages collaboration, specialization, and adaptability to achieve more reliable outcomes.",
