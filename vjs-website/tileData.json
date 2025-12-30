@@ -210,7 +210,7 @@
       "tags": ["ai architecture", "ai","RNN","Ai Architecture","LSTM","DATA Science"],
       "date": "2025-09-17"
     },
-    "imageUrl": "https://raw.githubusercontent.com/vkpatne/data/main/vjs-website/tile-images/LSTM.png",
+    "imageUrl": "https://raw.githubusercontent.com/vkpatne/data/main/vjs-website/tile-images/LSTM.jpg",
     "links": {
       "medium": "https://medium.com/@vupatne/lstms-long-short-term-memory-networks-explained-44306ca45bb7"
     }
@@ -238,7 +238,7 @@
       "tags": ["RAGs", "ai","Retrieval Augmented Gen","LLM","Vector Database"],
       "date": "2025-10-06"
     },
-    "imageUrl": "https://raw.githubusercontent.com/vkpatne/data/main/vjs-website/tile-images/rag.png",
+    "imageUrl": "https://raw.githubusercontent.com/vkpatne/data/main/vjs-website/tile-images/rag.jpg",
     "links": {
       "medium": "https://medium.com/@vupatne/rag-retrieval-augmented-generation-for-enterprise-ai-5bab992a6814"
     }
