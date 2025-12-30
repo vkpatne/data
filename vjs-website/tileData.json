@@ -200,5 +200,75 @@
     "links": {
       "medium": "https://medium.com/@vupatne/multi-agent-system-architecture-building-smarter-ai-with-collaboration-4a148a7f8ffc"
     }
+  },
+  {
+    "id": 15,
+    "title": "LSTMs",
+    "shortDes": "LSTMs: Long Short-Term Memory Networks Explained",
+    "longDes": "Recurrent Neural Networks (RNNs) are widely used for sequence data — like text, time series, or speech. However, standard RNNs struggle with long-term dependencies due to the vanishing gradient problem.\n\ne.g. I live in India and I generally speak a good Hindi.\n\nHere India word is having long distance from Hindi. Hence to language Hindi simple RNN fails.\n\nThis is where LSTMs (Long Short-Term Memory networks) shine. They are a special type of RNN designed to remember information over long periods while selectively forgetting irrelevant parts.",
+    "metadata": {
+      "tags": ["ai architecture", "ai","RNN","Ai Architecture","LSTM","DATA Science"],
+      "date": "2025-09-17"
+    },
+    "imageUrl": "https://raw.githubusercontent.com/vkpatne/data/main/vjs-website/tile-images/LSTM.png",
+    "links": {
+      "medium": "https://medium.com/@vupatne/lstms-long-short-term-memory-networks-explained-44306ca45bb7"
+    }
+  },
+  {
+    "id": 16,
+    "title": "LSTM Encoder-Decoder",
+    "shortDes": "LSTM Encoder-Decoder and the Power of Attention",
+    "longDes": "LSTM Encoder-Decoder works well for short sequences but struggles with longer ones.\n\nAttention solves this by focusing on relevant parts of the input, greatly improving translation and other tasks.\n\nThis idea paved the way for Transformers, the backbone of today’s models like GPT and BERT.",
+    "metadata": {
+      "tags": ["ai architecture", "ai","RNN","Ai Architecture","LSTM","DATA Science"],
+      "date": "2025-09-21"
+    },
+    "imageUrl": "https://raw.githubusercontent.com/vkpatne/data/main/vjs-website/tile-images/nural_network.png",
+    "links": {
+      "medium": "https://medium.com/@vupatne/lstm-encoder-decoder-and-the-power-of-attention-bb5422e7bf62"
+    }
+  },
+  {
+    "id": 17,
+    "title": "RAG",
+    "shortDes": "RAG: Retrieval-Augmented Generation for Enterprise AI",
+    "longDes": "RAG is revolutionizing enterprise AI by enabling secure, efficient, and context-aware automation — especially in domains like finance where accuracy and compliance are critical. \n\nBy leveraging open-source tools like FAISS, BGE, and Mistral, organizations can build scalable customer support systems without incurring heavy licensing costs.",
+    "metadata": {
+      "tags": ["RAGs", "ai","Retrieval Augmented Gen","LLM","Vector Database"],
+      "date": "2025-10-06"
+    },
+    "imageUrl": "https://raw.githubusercontent.com/vkpatne/data/main/vjs-website/tile-images/rag.png",
+    "links": {
+      "medium": "https://medium.com/@vupatne/rag-retrieval-augmented-generation-for-enterprise-ai-5bab992a6814"
+    }
+  },
+  {
+    "id": 18,
+    "title": "Transformers",
+    "shortDes": "Understanding Transformers — The Brains Behind ChatGPT, Google Translate, and More",
+    "longDes": "Transformers revolutionized AI by replacing sequence-based models (like RNNs and LSTMs) with a parallel, attention-driven architecture that understands relationships between all words in a context.\n\nFrom translation to chatbots to creative writing — everything today that “understands and generates language” builds on this foundation.",
+    "metadata": {
+      "tags": ["Transformers", "ai","Encoder Decoder","Generative Ai","Large Language Models"],
+      "date": "2025-11-09"
+    },
+    "imageUrl": "https://raw.githubusercontent.com/vkpatne/data/main/vjs-website/tile-images/transformers.png",
+    "links": {
+      "medium": "https://medium.com/@vupatne/understanding-transformers-the-brains-behind-chatgpt-google-translate-and-more-52aba988e46b"
+    }
+  },
+  {
+    "id": 18,
+    "title": "Architect’s Approach",
+    "shortDes": "A Practical Architect’s Approach to a New Requirement",
+    "longDes": "A Practical Architect’s Approach to a New Requirement",
+    "metadata": {
+      "tags": ["Software Architecture", "Requirements","System Design Concepts"],
+      "date": "2025-12-30"
+    },
+    "imageUrl": "https://raw.githubusercontent.com/vkpatne/data/main/vjs-website/tile-images/icons_tools.png",
+    "links": {
+      "medium": "https://medium.com/@vupatne/a-practical-architects-approach-to-a-new-requirement-f8fb81b4913e"
+    }
   }
 ]
